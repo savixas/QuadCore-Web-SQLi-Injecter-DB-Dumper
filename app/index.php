@@ -5,33 +5,33 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 	<link rel="icon" href="favicon.ico" />
 	<title>SQLi SCANNER - by QuadCore Engineering MSB</title>
-	<link href="css/bootstrap.css" rel="stylesheet" />
-	<link href="css/bootstrap-table.min.css" rel="stylesheet" />
-	<link href="css/custom.css" rel="stylesheet" />
-	<link href="css/style.css" rel="stylesheet" />
-	<script src="js/assets/jquery.min.js"></script>
-	<script src="js/assets/bootstrap.min.js"></script>
-	<script src="js/assets/treeview.js"></script>
-	<script src="js/assets/angular.min.js"></script>
-	<script src="js/assets/angular-route.min.js"></script>
-	<script src="js/assets/angular-cookies.min.js"></script>
-	<script src="js/assets/spin.min.js"></script>
-	<script src="js/assets/angular-spinner.min.js"></script>
-	<script src="js/assets/bootstrap-table.min.js"></script>
-	<script src="js/assets/bootstrap-table-angular.min.js"></script>
-	<script src="js/assets/tableExport.js"></script>
-	<script src="js/assets/bootstrap-table-export.min.js"></script>
-	<script src="js/assets/bootstrap-table-cookie.min.js"></script>
-	<script src="js/assets/bootstrap-table-mobile.min.js"></script>
-	<script src="js/assets/app.js"></script>
-	<script src="js/service/main.js"></script>
-	<script src="js/controller/main.js"></script>
-	<script src="js/service/recherche.js"></script>
-	<script src="js/controller/recherche.js"></script>
-	<script src="js/service/analyse.js"></script>
-	<script src="js/controller/analyse.js"></script>
-	<script src="js/service/dumper.js"></script>
-	<script src="js/controller/dumper.js"></script>
+	<link href="app/css/bootstrap.css" rel="stylesheet" />
+	<link href="app/css/bootstrap-table.min.css" rel="stylesheet" />
+	<link href="app/css/custom.css" rel="stylesheet" />
+	<link href="app/css/style.css" rel="stylesheet" />
+	<script src="app/js/assets/jquery.min.js"></script>
+	<script src="app/js/assets/bootstrap.min.js"></script>
+	<script src="app/js/assets/treeview.js"></script>
+	<script src="app/js/assets/angular.min.js"></script>
+	<script src="app/js/assets/angular-route.min.js"></script>
+	<script src="app/js/assets/angular-cookies.min.js"></script>
+	<script src="app/js/assets/spin.min.js"></script>
+	<script src="app/js/assets/angular-spinner.min.js"></script>
+	<script src="app/js/assets/bootstrap-table.min.js"></script>
+	<script src="app/js/assets/bootstrap-table-angular.min.js"></script>
+	<script src="app/js/assets/tableExport.js"></script>
+	<script src="app/js/assets/bootstrap-table-export.min.js"></script>
+	<script src="app/js/assets/bootstrap-table-cookie.min.js"></script>
+	<script src="app/js/assets/bootstrap-table-mobile.min.js"></script>
+	<script src="app/js/assets/app.js"></script>
+	<script src="app/js/service/main.js"></script>
+	<script src="app/js/controller/main.js"></script>
+	<script src="app/js/service/recherche.js"></script>
+	<script src="app/js/controller/recherche.js"></script>
+	<script src="app/js/service/analyse.js"></script>
+	<script src="app/js/controller/analyse.js"></script>
+	<script src="app/js/service/dumper.js"></script>
+	<script src="app/js/controller/dumper.js"></script>
 </head>
 <body ng-app="SqliAppOne">
 
